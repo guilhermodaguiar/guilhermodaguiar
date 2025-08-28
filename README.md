@@ -1,9 +1,8 @@
-## Hi there 👋
+### Hi there 👋
 
-My name is **Guilhermo**, and I am a **Java Backend Developer~** with a strong passion for cloud engineering, DevSecOps, and platform engineering. As a developer, I am analytical, creative, and solution-oriented, with experience in Java, Spring Boot, and React.js, among other technologies.
+My name is Guilhermo, and I am a Java Backend Developer with a strong passion for cloud engineering, DevSecOps, and platform engineering. I’m analytical, creative, and solution-oriented—fluent in Java, Spring Boot, React.js, and other modern technologies.
 
-In recent years, I successfully completed a retraining program in Full Stack Development through NOVI Hogeschool of Applied Sciences in the Netherlands. In early 2024, I participated in an high intensive program at Sogeti to further develop myself as a Java Developer. This led to an assignment at TenneT, where I supported a project aimed at modernizing a developer platform using GitHub Enterprise Cloud (GHEC) and GitHub Enterprise Server (GHES).
+I completed a retraining program in Full Stack Development at NOVI Hogeschool of Applied Sciences in the Netherlands, which laid the foundation for my transition into software development. In early 2024, I strengthened my skills through an intensive Java Developer program at Sogeti. Since then, I have applied my knowledge in professional assignments, starting at TenneT and now at Delta Fiber NL, a leading telecom operator rolling out high-performance fiber-to-the-home networks under the DELTA and Caiway brands. I’m proud to contribute to their mission of expanding gigabit-speed connectivity across the Netherlands.
 
-Currently, I am working toward certifications such as CKAD, Spring Certified Professional 2024, AWS Certified Developer – Associate, Hashicorp - Terraform, and GitHub Advanced Security. In addition, I volunteer at DIGIWIJS 3.0, a project in Utrecht that helps people with limited IT knowledge develop their digital skills.
-
-I am always excited to take on new challenges and contribute to innovative projects. In my free time, I enjoy painting and being creative in the kitchen.
+I’m also working toward certifications such as CKAD, Spring Certified Professional (2024), AWS Certified Developer – Associate, HashiCorp Terraform, and GitHub Advanced Security. In addition, I volunteer at DIGIWIJS 3.0, a Utrecht-based initiative helping people with limited IT knowledge develop digital skills.
+I’m always excited about tackling new challenges and contributing to innovative projects. In my free time, I enjoy painting and experimenting in the kitchen.
