@@ -1,12 +1,28 @@
 ### Hi there 👋
 
-### Java Backend Engineer • Cloud & DevSecOps Enthusiast • Platform Engineering
+### Java Backend Engineer • Cloud & Platform Engineering Enthusiast • DevSecOps
 
-My name is Guilhermo, and I am a Java Backend Developer with a strong passion for cloud engineering, DevSecOps, and platform engineering. I’m analytical, creative, and solution-oriented—fluent in Java, Spring Boot, React.js, and others.
+My name is Guilhermo, and I am a Java Backend Engineer with a growing focus on cloud-native technologies, platform engineering, DevSecOps, and observability. I enjoy understanding how systems communicate, scale, and operate in distributed environments, and I’m especially interested in Kubernetes, GitOps, cloud infrastructure, and developer enablement.
 
-I completed a retraining program in Full Stack Development at NOVI Hogeschool of Applied Sciences in the Netherlands, which laid the foundation for my transition into software development. In early 2024, I strengthened my skills through an intensive Java Developer program at Sogeti, a part of Capgemini. Since then, I have applied my knowledge in professional assignments, starting at TenneT TSO and now at Delta Fiber NL, a leading telecom operator rolling out high-performance fiber-to-the-home networks under the DELTA and Caiway brands. I’m proud to contribute to their mission of expanding gigabit-speed connectivity across the Netherlands.
+I’m analytical, creative, and solution-oriented, with experience in Java, Spring Boot, React.js, and modern software engineering practices.
+My journey into tech started with a Full Stack Development retraining program at NOVI Hogeschool of Applied Sciences in the Netherlands, which laid the foundation for my transition into software development. In early 2024, I further strengthened my backend engineering skills through an intensive Java Developer program at Sogeti, part of Capgemini.
 
-I’m also working toward certifications such as CKAD, Spring Certified Professional (2024), AWS Certified Developer – Associate, HashiCorp Terraform, and GitHub Advanced Security. In addition to getting certified I'm also working on a website for my son, from scratch, where he can share his paintings through the years. 
+Since then, I have contributed to several professional assignments, including projects at TenneT TSO and Delta Fiber Nederland. Today, I’m excited to continue my journey at the Dutch Railways (NS), where I’m developing further as a Platform & Cloud Engineer, working with cloud-native platforms, observability, and modern infrastructure practices.
 
-In addition, I like doing volunteer work, recently at DIGIWIJS 3.0, a Utrecht-based initiative helping people with limited IT knowledge develop digital skills. 
-I’m always excited about tackling new challenges and contributing to innovative projects. In my free time, I enjoy painting and experimenting in the kitchen.
+I’m currently expanding my knowledge in:
+> - Kubernetes & cloud-native engineering
+> - Platform engineering & developer enablement
+> - Observability with OpenTelemetry and Datadog
+> - GitOps & CI/CD
+> - Infrastructure as Code & DevSecOps
+
+I’m also working toward certifications such as:
+CKAD (Certified Kubernetes Application Developer)
+Spring Certified Professional
+AWS Certified Developer – Associate
+HashiCorp Terraform Associate
+
+Beyond certifications, I enjoy building personal projects and continuously learning through hands-on experimentation. One of my personal projects is a website for my son where he can share his paintings and creative work over the years.
+Outside of engineering, I enjoy volunteer work and recently contributed to DIGIWIJS 3.0, a Utrecht-based initiative helping people with limited digital skills become more confident with technology.
+In my free time, I enjoy painting, exploring urbanism and infrastructure systems, and experimenting in the kitchen.
+I’m always excited to learn, collaborate, and contribute to innovative engineering challenges.
