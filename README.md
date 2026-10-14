@@ -1,25 +1,25 @@
 ### Hi there 👋
 
-### Java Backend Engineer • Cloud & Platform Engineering Enthusiast • DevSecOps
+### Java Backend Engineer • Cloud & Platform Engineering Enthusiast • DevOps
 
-My name is Guilhermo, and I am a Java Backend Engineer with a growing focus on cloud-native technologies, platform engineering, DevSecOps, and observability. I enjoy understanding how systems communicate, scale, and operate in distributed environments, and I’m especially interested in Kubernetes, GitOps, cloud infrastructure, and developer enablement.
+My name is Guilhermo, and I am a Java Backend Engineer with a growing focus on cloud-native technologies, platform engineering, DevOps, and observability. I enjoy understanding how systems communicate, scale, and operate in distributed environments, and I’m especially interested in Kubernetes, GitOps, cloud infrastructure, and developer enablement.
 
-I’m analytical, creative, and solution-oriented, with experience in Java, Spring Boot, React.js, and modern software engineering practices.
+I’m analytical, creative, and solution-oriented, with experience in Java (11, 17, 21 and 25), Spring Boot, React.js, and modern software engineering practices.
 My journey into tech started with a Full Stack Development retraining program at NOVI Hogeschool of Applied Sciences in the Netherlands, which laid the foundation for my transition into software development. In early 2024, I further strengthened my backend engineering skills through an intensive Java Developer program at Sogeti, part of Capgemini.
 
-Since then, I have contributed to several professional assignments, including projects at TenneT TSO and Delta Fiber Nederland. Today, I’m excited to continue my journey at the Dutch Railways (NS), where I’m developing further as a Platform & Cloud Engineer, working with cloud-native platforms, observability, and modern infrastructure practices.
+Since then, I have contributed to several professional assignments, including projects at TenneT TSO, Delta Fiber Nederland and the Dutch Railways (NS).
 
 I’m currently expanding my knowledge in:
 > - Kubernetes & cloud-native engineering
 > - Platform engineering & developer enablement
-> - Observability with OpenTelemetry and Datadog
+> - Observability
 > - GitOps & CI/CD
-> - Infrastructure as Code & DevSecOps
+> - Infrastructure as Code & DevOps
 
 I’m also working toward certifications such as:
+AZ-104 and AZ-400
 CKAD (Certified Kubernetes Application Developer)
 Spring Certified Professional
-AWS Certified Developer – Associate
 HashiCorp Terraform Associate
 
 Beyond certifications, I enjoy building personal projects and continuously learning through hands-on experimentation. One of my personal projects is a website for my son where he can share his paintings and creative work over the years.
